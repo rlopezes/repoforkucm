@@ -1,0 +1,1 @@
+Mi nombre es Agostina Palomas, soy Ingeniera Industrial, y actualmente me pude a Madrid para estudiando el máster de Data Science en la UCM.
